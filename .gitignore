@@ -1,0 +1,19 @@
+.DS_Store
+.omx/
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.p12
