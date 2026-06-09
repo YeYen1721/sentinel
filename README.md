@@ -24,3 +24,5 @@ Case study: https://www.minwookshin.com/work/sentinel
 ## Notes
 
 Built as a hackathon MVP and product prototype. API keys are loaded from environment variables, and the included Firebase plist uses placeholder demo values.
+
+Supporting setup notes, troubleshooting docs, standalone API probes, and archived assets live in `docs/`.
